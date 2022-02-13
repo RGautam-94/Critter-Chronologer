@@ -1,0 +1,11 @@
+	Works-Cited: 
+
+	https://www.baeldung.com/learn-jpa-hibernate
+	https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference
+	https://github.com/jalvarezvas/CritterChronologer/tree/master/starter
+	https://github.com/skb1129/critter-chronologer/tree/master/src/main/java/com/udacity
+	https://stackoverflow.com/
+	https://classroom.udacity.com/nanodegrees/nd035/parts/cd0628
+	
+	
+	
